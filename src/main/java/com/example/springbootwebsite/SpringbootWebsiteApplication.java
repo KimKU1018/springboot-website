@@ -22,5 +22,9 @@ public class SpringbootWebsiteApplication {
 //-----------8/20----------------
 //Whitelabel Error Page status=500 오류 -> posts-update.mustache 에서 label="content" 부분 id를 ind로 오타 -> 해결
 //또 port:8080 already
+// lsof -i tcp:8080
+// sudo kill -9 PID 번호
+
+
 
 
